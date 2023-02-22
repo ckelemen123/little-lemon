@@ -9,9 +9,9 @@ export default function Testimonials() {
 
 
             <section className="testimonials-cards">
-                <TestimonialCard name="Csilla Kelemen" description="Here is my quote about the food"/>
-                <TestimonialCard name="Aronn Rhinehart" description="Food quote here"/>
-                <TestimonialCard name="Julie Jackson" description="Food quote here"/>
+                <TestimonialCard name="Csilla Kelemen" description="I love the fresh ingredients and friendly staff."/>
+                <TestimonialCard name="Aronn Rhinehart" description="This is my go-to restaurant to take my friends, nothing beats their lemon cake."/>
+                <TestimonialCard name="Julie Jackson" description="I love the specials and the fresh ingredients."/>
             </section>
 
             <section className="testimonials-carousel">

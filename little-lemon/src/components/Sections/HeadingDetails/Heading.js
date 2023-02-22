@@ -6,7 +6,7 @@ export default function Heading() {
                 <section className="hero-text">
                     <h1>Little Lemon</h1>
                     <h2>Chicago</h2>
-                    <p className="subsection">We are a family owned Mediterranean restaurant...</p>
+                    <p className="subsection">We are a family owned Mediterranean restaurant.</p>
                     <br></br>
                     <Link className="action-button" to="/reservations">Reserve a table</Link>
                 </section>

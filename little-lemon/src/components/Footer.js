@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <div className="footer">
-        <img src={require('../assets/Logo.svg')} alt="logo" />
+        <img src={require('../assets/logo.png')} alt="logo" />
         <div className="nav">
         <h4>Doormat Navigation</h4>
           <a href="/">Home</a>

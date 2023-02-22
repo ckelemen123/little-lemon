@@ -12,9 +12,9 @@ export default function Specials() {
             </article>
 
             <section className="specials-cards">
-                <SpecialCard image={GreekSalad} name="Greek Salad" price="$9.99" description="add ingredients here"/>
-                <SpecialCard image={Bruschetta}name="Bruschetta" price="$9.99" description="add ingredients here"/>
-                <SpecialCard image={LemonDessert} name="Lemon Dessert" price="$6.99" description="add ingredients here"/>
+                <SpecialCard image={GreekSalad} name="Greek Salad" price="$9.99" description="Sliced cucumbers, tomatoes, green bell pepper, red onion, olives, and feta cheese."/>
+                <SpecialCard image={Bruschetta}name="Bruschetta" price="$9.99" description="Bread topped with fresh tomatoes, mozzarella cheese, basil, red onion, olive oil, red wine vinegar, garlic, salt, and black pepper."/>
+                <SpecialCard image={LemonDessert} name="Lemon Dessert" price="$6.99" description="Fluffly vanilla cream cake topped with decadent lemon frosting."/>
             </section>
 
             <section className="specials-carousel">

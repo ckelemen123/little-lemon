@@ -12,7 +12,7 @@ export default function Navbar() {
     <nav>
       <nav className="burger">
         <img
-          src={require("../assets/Logo.svg")}
+          src={require("../assets/logo.png")}
           alt="Little Lemon logo"
           className="nav-image"
         ></img>
